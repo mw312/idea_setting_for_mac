@@ -1,0 +1,12 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="DTD" injector-id="xml">
+      <display-name>bean/@id</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("id")).withParent(xmlTag().withLocalName(string().equalTo("bean")).withNamespace(string().equalTo("http://www.springframework.org/schema/beans")))]]></place>
+    </injection>
+    <injection language="DTD" injector-id="xml">
+      <display-name>bean/@name</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("name")).withParent(xmlTag().withLocalName(string().equalTo("bean")).withNamespace(string().equalTo("http://www.springframework.org/schema/beans")))]]></place>
+    </injection>
+  </component>
+</application>
