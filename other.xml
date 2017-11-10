@@ -1,0 +1,14 @@
+<application>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="svn://svn.afanqie.cn" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn://svn.afanqie.cn" />
+      </list>
+    </option>
+  </component>
+</application>
