@@ -2,10 +2,13 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
+      <mask>*.</mask>
+      <mask>*.</mask>
+      <mask>*.</mask>
+      <mask>*.heml</mask>
       <mask>*.hem</mask>
       <mask>*.he</mask>
       <mask>*.h</mask>
@@ -24,18 +27,14 @@
       <mask>*.</mask>
       <mask>*.</mask>
       <mask>*.</mask>
-      <mask>*.ja</mask>
       <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.j's</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
