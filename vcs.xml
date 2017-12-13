@@ -18,8 +18,16 @@
           <option name="url" value="http://gitlab.fangbaba.com/tomasky/scrat-roomsell.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:mw312/springcloud.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mw312/springcloud.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/work/webstormProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/work/ideaProjects" />
   </component>
 </application>
