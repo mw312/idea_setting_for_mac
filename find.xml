@@ -4,13 +4,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.heml</mask>
       <mask>*.hem</mask>
       <mask>*.he</mask>
-      <mask>*.h</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.html</mask>
       <mask>*.x</mask>
       <mask>*.jsp</mask>
       <mask>*.</mask>
@@ -34,6 +29,11 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.h</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
