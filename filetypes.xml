@@ -3,6 +3,8 @@
     <ignoreFiles list="*.hprof;*.idea;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="vm" type="JavaScript" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="dockerFile" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
