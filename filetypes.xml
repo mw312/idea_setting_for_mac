@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping ext="vm" type="JavaScript" />
       <mapping pattern="Dockerfile1" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="dockerFile" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
@@ -13,7 +12,6 @@
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping pattern="routes" type="Play 2 routing" />
-      <removed_mapping ext="vm" type="VTL" />
     </extensionMap>
   </component>
 </application>
