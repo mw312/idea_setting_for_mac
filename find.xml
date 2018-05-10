@@ -11,9 +11,7 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.</mask>
-      <mask>*.ja</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.j</mask>
@@ -34,6 +32,8 @@
       <mask>*.scahtml</mask>
       <mask>*.scalahtml</mask>
       <mask>*.scala.html</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
