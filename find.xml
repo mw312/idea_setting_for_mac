@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*。jav</mask>
       <mask>*。ja</mask>
       <mask>*。j</mask>
       <mask>*。</mask>
@@ -21,12 +21,9 @@
       <mask>*.heml</mask>
       <mask>*.hem</mask>
       <mask>*.he</mask>
-      <mask>*.h</mask>
-      <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.ht'm'l</mask>
       <mask>*.chtml</mask>
-      <mask>*.html</mask>
       <mask>*.shtml</mask>
       <mask>*.s'chtml</mask>
       <mask>*.scahtml</mask>
@@ -34,6 +31,10 @@
       <mask>*.scala.html</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.h</mask>
+      <mask>*.h</mask>
+      <mask>*.h't</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
