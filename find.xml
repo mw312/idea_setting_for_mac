@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*。ja</mask>
       <mask>*。j</mask>
@@ -10,10 +13,7 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.</mask>
-      <mask>*.jav</mask>
       <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.</mask>
       <mask>*.he'm'l</mask>
@@ -28,12 +28,15 @@
       <mask>*.scahtml</mask>
       <mask>*.scalahtml</mask>
       <mask>*.scala.html</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.h</mask>
       <mask>*.h</mask>
       <mask>*.h't</mask>
       <mask>*.html</mask>
+      <mask>*.j</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
