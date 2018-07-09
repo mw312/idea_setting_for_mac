@@ -5,8 +5,8 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.vm" />
     <recentFileMasks>
-      <mask>*.hem</mask>
       <mask>*.he</mask>
       <mask>*.ht</mask>
       <mask>*.ht'm'l</mask>
@@ -36,6 +36,7 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.vm</mask>
     </recentFileMasks>
   </component>
 </application>
