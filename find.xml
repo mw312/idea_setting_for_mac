@@ -4,9 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.hem</mask>
       <mask>*.he</mask>
-      <mask>*.ht</mask>
       <mask>*.ht'm'l</mask>
       <mask>*.chtml</mask>
       <mask>*.shtml</mask>
@@ -14,10 +12,7 @@
       <mask>*.scahtml</mask>
       <mask>*.scalahtml</mask>
       <mask>*.scala.html</mask>
-      <mask>*.h</mask>
-      <mask>*.h</mask>
       <mask>*.h't</mask>
-      <mask>*.html</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
       <mask>*.prope</mask>
@@ -34,6 +29,11 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.vm</mask>
+      <mask>*.h</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
