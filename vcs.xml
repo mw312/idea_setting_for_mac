@@ -31,11 +31,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.fangbaba.com/tomasky/dp-web-pass.git" />
+          <option name="url" value="http://gitlab.fangbaba.com/tomasky/tomasky-directProxy.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/work/webstormProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/work/ideaProjects" />
   </component>
 </application>
