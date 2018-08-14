@@ -6,9 +6,6 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.chtml</mask>
-      <mask>*.shtml</mask>
-      <mask>*.s'chtml</mask>
       <mask>*.scahtml</mask>
       <mask>*.scalahtml</mask>
       <mask>*.scala.html</mask>
@@ -21,13 +18,10 @@
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
-      <mask>*.vm</mask>
       <mask>*.h</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
-      <mask>*.j</mask>
-      <mask>*.j</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.ja</mask>
@@ -36,6 +30,12 @@
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.j</mask>
+      <mask>*.vm</mask>
+      <mask>*.v</mask>
+      <mask>*.</mask>
     </recentFileMasks>
   </component>
 </application>
