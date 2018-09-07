@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="授权" />
       <item value="刷新令牌" />
       <item value="uri Refresh Token" />
       <item value="30分钟" />
