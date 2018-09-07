@@ -1,13 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="刷新令牌" />
+      <item value="uri Refresh Token" />
       <item value="30分钟" />
       <item value="程序" />
       <item value="哈哈" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
+        <entry key="JAPANESE" value="2" />
       </map>
     </option>
   </component>
