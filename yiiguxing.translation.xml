@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="组装" />
       <item value="latest" />
       <item value="最新" />
       <item value="zuiixn" />
@@ -21,7 +22,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="ENGLISH" value="6" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
