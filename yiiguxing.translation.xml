@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="代码" />
       <item value="客服" />
       <item value="前缀" />
       <item value="handle" />
@@ -16,7 +17,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="ENGLISH" value="4" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
