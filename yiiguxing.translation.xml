@@ -1,0 +1,30 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="组装" />
+      <item value="latest" />
+      <item value="最新" />
+      <item value="zuiixn" />
+      <item value="最近" />
+      <item value="代码" />
+      <item value="客服" />
+      <item value="前缀" />
+      <item value="handle" />
+      <item value="授权" />
+      <item value="解绑" />
+      <item value="已授权" />
+      <item value="刷新令牌" />
+      <item value="uri Refresh Token" />
+      <item value="30分钟" />
+      <item value="程序" />
+      <item value="哈哈" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
+        <entry key="JAPANESE" value="2" />
+      </map>
+    </option>
+  </component>
+</application>
