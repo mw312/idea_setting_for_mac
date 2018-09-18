@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compact" />
+      <item value="sweep" />
+      <item value="ssweep" />
       <item value="组装" />
       <item value="latest" />
       <item value="最新" />
@@ -21,7 +24,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
+        <entry key="CHINESE" value="6" />
         <entry key="ENGLISH" value="6" />
         <entry key="JAPANESE" value="2" />
       </map>
