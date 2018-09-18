@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Audit" />
+      <item value="aduit" />
       <item value="RELEASED" />
       <item value="审核通过" />
       <item value="AUDIT" />
