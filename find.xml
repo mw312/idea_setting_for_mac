@@ -27,13 +27,13 @@
       <mask>*.</mask>
       <mask>*.v</mask>
       <mask>*.vm</mask>
-      <mask>*.x</mask>
       <mask>*.x'm</mask>
-      <mask>*.x'm'l</mask>
-      <mask>*.xml</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.x'm'l</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
