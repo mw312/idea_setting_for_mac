@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unified" />
+      <item value="unifiedorder" />
       <item value="fill" />
       <item value="miniapp" />
       <item value="mini app" />
