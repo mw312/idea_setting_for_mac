@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="purge" />
       <item value="redelivery" />
       <item value="intro" />
       <item value="简介" />
