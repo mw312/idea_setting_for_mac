@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="门店" />
+      <item value="branch" />
+      <item value="Execut" />
+      <item value="purge" />
+      <item value="redelivery" />
+      <item value="intro" />
+      <item value="简介" />
+      <item value="unified" />
+      <item value="unifiedorder" />
+      <item value="fill" />
       <item value="miniapp" />
       <item value="mini app" />
       <item value="mini" />
@@ -37,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="11" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
