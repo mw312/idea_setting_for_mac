@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="解绑" />
       <item value="门店" />
       <item value="branch" />
       <item value="Execut" />
@@ -37,7 +38,6 @@
       <item value="前缀" />
       <item value="handle" />
       <item value="授权" />
-      <item value="解绑" />
       <item value="已授权" />
       <item value="刷新令牌" />
       <item value="uri Refresh Token" />
