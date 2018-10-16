@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="relation" />
+      <item value="关系" />
       <item value="解绑" />
       <item value="门店" />
       <item value="branch" />
@@ -47,7 +49,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
+        <entry key="CHINESE" value="11" />
         <entry key="ENGLISH" value="11" />
         <entry key="JAPANESE" value="2" />
       </map>
