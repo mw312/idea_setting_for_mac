@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="密钥" />
       <item value="relation" />
       <item value="关系" />
       <item value="解绑" />
@@ -50,7 +51,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="ENGLISH" value="12" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
