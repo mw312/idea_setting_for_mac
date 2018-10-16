@@ -21,12 +21,9 @@
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.v</mask>
-      <mask>*.vm</mask>
       <mask>*.x</mask>
       <mask>*.x'm</mask>
       <mask>*.x'm'l</mask>
@@ -34,6 +31,9 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.v</mask>
+      <mask>*.vm</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
