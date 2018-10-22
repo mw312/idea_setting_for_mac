@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="arabic" />
+      <item value="aribic" />
+      <item value="aribit" />
       <item value="utilities" />
       <item value="utiliti" />
       <item value="uti" />
@@ -48,9 +51,6 @@
       <item value="代码" />
       <item value="客服" />
       <item value="前缀" />
-      <item value="handle" />
-      <item value="已授权" />
-      <item value="刷新令牌" />
     </histories>
     <option name="languageScores">
       <map>
