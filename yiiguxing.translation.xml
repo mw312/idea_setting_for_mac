@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="arabic" />
+      <item value="aribic" />
+      <item value="aribit" />
+      <item value="utilities" />
+      <item value="utiliti" />
+      <item value="uti" />
+      <item value="authorizer" />
+      <item value="authorized" />
+      <item value="授权" />
+      <item value="secret" />
+      <item value="secety" />
+      <item value="敏感" />
+      <item value="密钥" />
+      <item value="relation" />
+      <item value="关系" />
+      <item value="解绑" />
       <item value="门店" />
       <item value="branch" />
       <item value="Execut" />
@@ -35,20 +51,11 @@
       <item value="代码" />
       <item value="客服" />
       <item value="前缀" />
-      <item value="handle" />
-      <item value="授权" />
-      <item value="解绑" />
-      <item value="已授权" />
-      <item value="刷新令牌" />
-      <item value="uri Refresh Token" />
-      <item value="30分钟" />
-      <item value="程序" />
-      <item value="哈哈" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="13" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
