@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="utilities" />
+      <item value="utiliti" />
+      <item value="uti" />
       <item value="authorizer" />
       <item value="authorized" />
       <item value="授权" />
@@ -48,9 +51,6 @@
       <item value="handle" />
       <item value="已授权" />
       <item value="刷新令牌" />
-      <item value="uri Refresh Token" />
-      <item value="30分钟" />
-      <item value="程序" />
     </histories>
     <option name="languageScores">
       <map>
