@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="手动" />
+      <item value="自定义" />
+      <item value="增加或修改" />
+      <item value="增删" />
+      <item value="增删改查" />
       <item value="递归" />
       <item value="关联" />
       <item value="至少开通了一家" />
@@ -46,11 +51,6 @@
       <item value="AUDIT" />
       <item value="audit" />
       <item value="审核" />
-      <item value="adult" />
-      <item value="compact" />
-      <item value="sweep" />
-      <item value="ssweep" />
-      <item value="组装" />
     </histories>
     <option name="languageScores">
       <map>
