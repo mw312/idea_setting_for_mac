@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="provided" />
       <item value="Target host is not specified" />
       <item value="专业" />
       <item value="Decimal" />
@@ -50,7 +51,6 @@
       <item value="mini" />
       <item value="小程序" />
       <item value="coupon" />
-      <item value="Audit" />
     </histories>
     <option name="languageScores">
       <map>
