@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="消息" />
+      <item value="alteration" />
+      <item value="reservation" />
       <item value="provided" />
       <item value="Target host is not specified" />
       <item value="专业" />
@@ -48,14 +51,11 @@
       <item value="fill" />
       <item value="miniapp" />
       <item value="mini app" />
-      <item value="mini" />
-      <item value="小程序" />
-      <item value="coupon" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="ENGLISH" value="17" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
