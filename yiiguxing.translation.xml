@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="请求" />
       <item value="good fit" />
       <item value="普通" />
       <item value="消息" />
@@ -50,12 +51,11 @@
       <item value="简介" />
       <item value="unified" />
       <item value="unifiedorder" />
-      <item value="fill" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="ENGLISH" value="18" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
