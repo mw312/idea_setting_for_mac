@@ -1,12 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="消息" />
+      <item value="会话" />
+      <item value="thread" />
       <item value="Scheduled" />
       <item value="撤回" />
       <item value="请求" />
       <item value="good fit" />
       <item value="普通" />
-      <item value="消息" />
       <item value="alteration" />
       <item value="reservation" />
       <item value="provided" />
@@ -49,13 +51,11 @@
       <item value="Execut" />
       <item value="purge" />
       <item value="redelivery" />
-      <item value="intro" />
-      <item value="简介" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="ENGLISH" value="19" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
