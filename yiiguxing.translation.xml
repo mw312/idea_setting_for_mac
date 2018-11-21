@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="原价" />
       <item value="预下单" />
       <item value="unit price" />
       <item value="单价" />
@@ -50,7 +51,6 @@
       <item value="utiliti" />
       <item value="uti" />
       <item value="authorizer" />
-      <item value="authorized" />
     </histories>
     <option name="languageScores">
       <map>
