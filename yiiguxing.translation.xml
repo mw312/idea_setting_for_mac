@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deposit" />
       <item value="原价" />
       <item value="预下单" />
       <item value="unit price" />
@@ -50,11 +51,10 @@
       <item value="utilities" />
       <item value="utiliti" />
       <item value="uti" />
-      <item value="authorizer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
+        <entry key="CHINESE" value="23" />
         <entry key="ENGLISH" value="23" />
         <entry key="JAPANESE" value="2" />
       </map>
