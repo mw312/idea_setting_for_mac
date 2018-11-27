@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Advices" />
       <item value="deposit" />
       <item value="原价" />
       <item value="预下单" />
@@ -50,7 +51,6 @@
       <item value="aribit" />
       <item value="utilities" />
       <item value="utiliti" />
-      <item value="uti" />
     </histories>
     <option name="languageScores">
       <map>
