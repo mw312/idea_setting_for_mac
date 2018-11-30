@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reservation" />
+      <item value="优惠" />
+      <item value="Advices" />
       <item value="deposit" />
       <item value="原价" />
       <item value="预下单" />
@@ -26,7 +29,6 @@
       <item value="good fit" />
       <item value="普通" />
       <item value="alteration" />
-      <item value="reservation" />
       <item value="provided" />
       <item value="Target host is not specified" />
       <item value="专业" />
@@ -49,13 +51,11 @@
       <item value="aribic" />
       <item value="aribit" />
       <item value="utilities" />
-      <item value="utiliti" />
-      <item value="uti" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="24" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
