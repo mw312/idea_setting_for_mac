@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="对接" />
       <item value="reservation" />
       <item value="优惠" />
       <item value="Advices" />
@@ -50,12 +51,11 @@
       <item value="arabic" />
       <item value="aribic" />
       <item value="aribit" />
-      <item value="utilities" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="ENGLISH" value="25" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
