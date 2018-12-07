@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bash" />
+      <item value="审核失败" />
+      <item value="重新提交" />
       <item value="decline" />
       <item value="UNSTABLE" />
       <item value="paw" />
@@ -48,14 +51,11 @@
       <item value="递归" />
       <item value="关联" />
       <item value="至少开通了一家" />
-      <item value="Renewal" />
-      <item value="续费" />
-      <item value="购买类别" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="26" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
