@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="本周四" />
+      <item value="上周五" />
+      <item value="频次" />
+      <item value="evaluation" />
+      <item value="访问评测" />
       <item value="bash" />
       <item value="审核失败" />
       <item value="重新提交" />
@@ -46,16 +51,11 @@
       <item value="跳转" />
       <item value="手动" />
       <item value="增加或修改" />
-      <item value="增删" />
-      <item value="增删改查" />
-      <item value="递归" />
-      <item value="关联" />
-      <item value="至少开通了一家" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="28" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
