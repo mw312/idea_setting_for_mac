@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parties" />
+      <item value="coordinate" />
+      <item value="坐标" />
+      <item value="国家" />
+      <item value="county" />
+      <item value="床铺" />
+      <item value="卧室" />
+      <item value="卫生间" />
+      <item value="repository" />
+      <item value="Transactional" />
+      <item value="&lt;!--&lt;setting name=&quot;logImpl&quot; value=&quot;STDOUT_LOGGING&quot; /&gt;--&gt;" />
+      <item value="mybatis" />
       <item value="本周四" />
       <item value="上周五" />
       <item value="频次" />
@@ -39,23 +51,11 @@
       <item value="Scheduled" />
       <item value="撤回" />
       <item value="请求" />
-      <item value="good fit" />
-      <item value="普通" />
-      <item value="alteration" />
-      <item value="provided" />
-      <item value="Target host is not specified" />
-      <item value="专业" />
-      <item value="Decimal" />
-      <item value="BigDecimal" />
-      <item value="Iterator" />
-      <item value="跳转" />
-      <item value="手动" />
-      <item value="增加或修改" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="30" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
