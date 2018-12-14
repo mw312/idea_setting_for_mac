@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parties" />
       <item value="coordinate" />
       <item value="坐标" />
       <item value="国家" />
@@ -50,7 +51,6 @@
       <item value="Scheduled" />
       <item value="撤回" />
       <item value="请求" />
-      <item value="good fit" />
     </histories>
     <option name="languageScores">
       <map>
