@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invalid" />
+      <item value="无效" />
+      <item value="novalid" />
+      <item value="unvalid" />
+      <item value="valid" />
+      <item value="不可用" />
+      <item value="星期数" />
+      <item value="weekday" />
+      <item value="face value" />
+      <item value="票面" />
+      <item value="面值" />
+      <item value="满减" />
+      <item value="类别" />
       <item value="expiry" />
       <item value="expiration" />
       <item value="protocol" />
@@ -38,24 +51,11 @@
       <item value="审核失败" />
       <item value="重新提交" />
       <item value="decline" />
-      <item value="UNSTABLE" />
-      <item value="paw" />
-      <item value="wrapper" />
-      <item value="对接" />
-      <item value="reservation" />
-      <item value="Advices" />
-      <item value="deposit" />
-      <item value="原价" />
-      <item value="预下单" />
-      <item value="unit price" />
-      <item value="单价" />
-      <item value="匹配" />
-      <item value="自定义" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="36" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
