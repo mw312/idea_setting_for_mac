@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expiry" />
+      <item value="expiration" />
       <item value="protocol" />
       <item value="agreement" />
       <item value="协议" />
@@ -49,8 +51,6 @@
       <item value="单价" />
       <item value="匹配" />
       <item value="自定义" />
-      <item value="Dynamic" />
-      <item value="兑换" />
     </histories>
     <option name="languageScores">
       <map>
