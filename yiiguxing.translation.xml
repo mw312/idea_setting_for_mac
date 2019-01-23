@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="package" />
+      <item value="assign" />
+      <item value="指定" />
+      <item value="定向" />
       <item value="invalid" />
       <item value="无效" />
       <item value="novalid" />
@@ -47,15 +51,11 @@
       <item value="频次" />
       <item value="evaluation" />
       <item value="访问评测" />
-      <item value="bash" />
-      <item value="审核失败" />
-      <item value="重新提交" />
-      <item value="decline" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="37" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
