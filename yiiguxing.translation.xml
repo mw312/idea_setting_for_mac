@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="领取" />
+      <item value="获取" />
+      <item value="限制" />
+      <item value="限制领取" />
+      <item value="满减" />
+      <item value="投放" />
+      <item value="face value" />
       <item value="valid" />
       <item value="relation_package_id" />
       <item value="relation" />
@@ -16,10 +23,8 @@
       <item value="不可用" />
       <item value="星期数" />
       <item value="weekday" />
-      <item value="face value" />
       <item value="票面" />
       <item value="面值" />
-      <item value="满减" />
       <item value="类别" />
       <item value="expiry" />
       <item value="expiration" />
@@ -46,16 +51,11 @@
       <item value="卧室" />
       <item value="卫生间" />
       <item value="repository" />
-      <item value="Transactional" />
-      <item value="&lt;!--&lt;setting name=&quot;logImpl&quot; value=&quot;STDOUT_LOGGING&quot; /&gt;--&gt;" />
-      <item value="mybatis" />
-      <item value="本周四" />
-      <item value="上周五" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="ENGLISH" value="39" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
