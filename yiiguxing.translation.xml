@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="人数" />
       <item value="消费金额" />
       <item value="消费" />
       <item value="筛选" />
@@ -50,7 +51,6 @@
       <item value="predicates" />
       <item value="parties" />
       <item value="coordinate" />
-      <item value="坐标" />
     </histories>
     <option name="languageScores">
       <map>
