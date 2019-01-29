@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="剩余" />
+      <item value="recharge" />
       <item value="人数" />
       <item value="消费金额" />
       <item value="消费" />
@@ -49,13 +51,11 @@
       <item value="民宿" />
       <item value="offline" />
       <item value="predicates" />
-      <item value="parties" />
-      <item value="coordinate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
