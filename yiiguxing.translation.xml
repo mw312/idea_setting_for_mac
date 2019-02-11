@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="valid" />
       <item value="batch" />
       <item value="bound" />
       <item value="绑定" />
@@ -26,7 +27,6 @@
       <item value="满减" />
       <item value="投放" />
       <item value="face value" />
-      <item value="valid" />
       <item value="relation_package_id" />
       <item value="relation" />
       <item value="新客" />
