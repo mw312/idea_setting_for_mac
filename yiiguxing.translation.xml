@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="非法访问" />
       <item value="valid" />
       <item value="batch" />
       <item value="bound" />
@@ -50,12 +51,11 @@
       <item value="协议" />
       <item value="上架" />
       <item value="son Customer From Id" />
-      <item value="erase" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
