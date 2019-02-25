@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exit" />
+      <item value="enter" />
       <item value="redis" />
       <item value="Cluster" />
       <item value="非法访问" />
@@ -49,8 +51,6 @@
       <item value="expiry" />
       <item value="expiration" />
       <item value="protocol" />
-      <item value="agreement" />
-      <item value="协议" />
     </histories>
     <option name="languageScores">
       <map>
