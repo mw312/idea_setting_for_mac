@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="vm" type="JavaScript" />
       <mapping pattern="dockerFile" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile1" type="PLAIN_TEXT" />
       <mapping pattern="talks" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
