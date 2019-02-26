@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="后缀" />
       <item value="slot" />
       <item value="时段" />
       <item value="时间段" />
@@ -50,12 +51,11 @@
       <item value="weekday" />
       <item value="票面" />
       <item value="面值" />
-      <item value="类别" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="ENGLISH" value="45" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
