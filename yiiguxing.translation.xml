@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="额外的" />
+      <item value="break" />
+      <item value="休息" />
+      <item value="release" />
+      <item value="TIME AM END" />
+      <item value="时间段" />
+      <item value="lunch on 12" />
+      <item value="lunch in 12" />
+      <item value="12点吃饭" />
+      <item value="后缀" />
+      <item value="slot" />
+      <item value="时段" />
+      <item value="exit" />
+      <item value="enter" />
+      <item value="redis" />
+      <item value="Cluster" />
       <item value="非法访问" />
       <item value="valid" />
       <item value="batch" />
@@ -35,27 +51,11 @@
       <item value="指定" />
       <item value="定向" />
       <item value="invalid" />
-      <item value="无效" />
-      <item value="novalid" />
-      <item value="unvalid" />
-      <item value="不可用" />
-      <item value="星期数" />
-      <item value="weekday" />
-      <item value="票面" />
-      <item value="面值" />
-      <item value="类别" />
-      <item value="expiry" />
-      <item value="expiration" />
-      <item value="protocol" />
-      <item value="agreement" />
-      <item value="协议" />
-      <item value="上架" />
-      <item value="son Customer From Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
