@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="新" />
       <item value="营销" />
       <item value="Candle In The Tomb" />
       <item value="The Wrath Of Time" />
@@ -50,7 +51,6 @@
       <item value="face value" />
       <item value="relation_package_id" />
       <item value="relation" />
-      <item value="新客" />
     </histories>
     <option name="languageScores">
       <map>
