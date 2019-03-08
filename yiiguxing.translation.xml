@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remain" />
+      <item value="剩余" />
+      <item value="recharge" />
       <item value="立即发送" />
       <item value="Issue" />
       <item value="发放" />
@@ -36,8 +39,6 @@
       <item value="count" />
       <item value="分钟" />
       <item value="间隔" />
-      <item value="剩余" />
-      <item value="recharge" />
       <item value="人数" />
       <item value="消费金额" />
       <item value="消费" />
@@ -50,12 +51,11 @@
       <item value="获取" />
       <item value="限制" />
       <item value="限制领取" />
-      <item value="满减" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="53" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
