@@ -1,7 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Java/Declaration/Add Javadoc" />
-    <ignoreAction name="Java/Concurrency/Convert to ThreadLocal" />
-    <ignoreAction name="Java/Concurrency/Convert to atomic" />
-  </component>
-</application>
