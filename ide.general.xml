@@ -10,5 +10,7 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="ide.debugger.inline" value="false" />
+    <entry key="BSP.experimental.feature.enabled" value="false" />
+    <entry key="BSP.system.in.process" value="true" />
   </component>
 </application>
