@@ -2,4 +2,9 @@
   <component name="DependencyUISettings">
     <option name="SCOPE_TYPE" value="file" />
   </component>
+  <component name="UISettings">
+    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+    <option name="EDITOR_TAB_LIMIT" value="30" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+  </component>
 </application>
