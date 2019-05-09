@@ -1,8 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="tabOpacity" value="49" />
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="4e9283aa:16a9b950d0d:-8000" />
