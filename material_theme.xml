@@ -5,7 +5,11 @@
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="upperCaseButtons" value="false" />
     <option name="tabOpacity" value="49" />
+    <option name="tabFontSize" value="16" />
+    <option name="settingsSelectedTab" value="4" />
+    <option name="tabsHeight" value="20" />
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="4e9283aa:16a9b950d0d:-8000" />
