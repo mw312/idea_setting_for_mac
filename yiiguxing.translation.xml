@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mute" />
+      <item value="sleuth" />
+      <item value="compression" />
       <item value="每个人" />
       <item value="calculate" />
       <item value="计算" />
@@ -48,13 +51,10 @@
       <item value="筛选" />
       <item value="范围" />
       <item value="customer" />
-      <item value="assign" />
-      <item value="JDBC driver metadata reported database stores quoted identifiers in neither upper, lower nor mixed case" />
-      <item value="领取" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
+        <entry key="CHINESE" value="55" />
         <entry key="ENGLISH" value="55" />
         <entry key="JAPANESE" value="2" />
       </map>
