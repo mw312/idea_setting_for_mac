@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sale" />
+      <item value="sell" />
       <item value="Noncompliant" />
       <item value="Present" />
       <item value="Implicit" />
@@ -49,8 +51,6 @@
       <item value="valid" />
       <item value="batch" />
       <item value="bound" />
-      <item value="绑定" />
-      <item value="递归" />
     </histories>
     <option name="languageScores">
       <map>
