@@ -14,6 +14,14 @@
           <option name="url" value="https://git.xinchao.mobi/DCRM/crm-root.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://repo1.maven.org/maven2/com/xuxueli/xxl-job-core/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/xuxueli/xxl-job.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
