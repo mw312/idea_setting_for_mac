@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="customize" />
+      <item value="customiz" />
+      <item value="customi" />
+      <item value="customized" />
+      <item value="自定" />
+      <item value="自定义" />
       <item value="reuse" />
       <item value="paraller" />
       <item value="pararrel" />
@@ -45,17 +51,11 @@
       <item value="lunch in 12" />
       <item value="12点吃饭" />
       <item value="后缀" />
-      <item value="slot" />
-      <item value="时段" />
-      <item value="exit" />
-      <item value="enter" />
-      <item value="redis" />
-      <item value="Cluster" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="58" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
