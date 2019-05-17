@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Present" />
+      <item value="Absent" />
       <item value="customize" />
       <item value="customiz" />
       <item value="customi" />
@@ -14,7 +16,6 @@
       <item value="sale" />
       <item value="sell" />
       <item value="Noncompliant" />
-      <item value="Present" />
       <item value="Implicit" />
       <item value="explore" />
       <item value="overwrite" />
@@ -50,7 +51,6 @@
       <item value="lunch on 12" />
       <item value="lunch in 12" />
       <item value="12点吃饭" />
-      <item value="后缀" />
     </histories>
     <option name="languageScores">
       <map>
