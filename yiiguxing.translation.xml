@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tiny" />
+      <item value="tinyint" />
       <item value="limit" />
       <item value="Present" />
       <item value="Absent" />
@@ -49,8 +51,6 @@
       <item value="release" />
       <item value="TIME AM END" />
       <item value="时间段" />
-      <item value="lunch on 12" />
-      <item value="lunch in 12" />
     </histories>
     <option name="languageScores">
       <map>
