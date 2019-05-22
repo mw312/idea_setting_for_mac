@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sleuth" />
       <item value="Customize" />
       <item value="tiny" />
       <item value="tinyint" />
@@ -29,7 +30,6 @@
       <item value="熔断" />
       <item value="hystrix" />
       <item value="mute" />
-      <item value="sleuth" />
       <item value="compression" />
       <item value="每个人" />
       <item value="calculate" />
