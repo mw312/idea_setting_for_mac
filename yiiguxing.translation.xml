@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="monitor" />
       <item value="sleuth" />
+      <item value="monitor" />
       <item value="metrics" />
       <item value="visitlimit" />
       <item value="visit" />
