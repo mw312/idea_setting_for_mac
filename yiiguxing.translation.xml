@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="visitlimit" />
+      <item value="visit" />
       <item value="common" />
       <item value="commom" />
       <item value="sleuth" />
@@ -49,8 +51,6 @@
       <item value="The Wrath Of Time" />
       <item value=",The.Wrath.Of.Time" />
       <item value="额外的" />
-      <item value="break" />
-      <item value="休息" />
     </histories>
     <option name="languageScores">
       <map>
