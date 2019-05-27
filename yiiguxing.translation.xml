@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stat" />
+      <item value="tooltip" />
       <item value="restore" />
       <item value="zipkin" />
       <item value="allocated." />
@@ -49,8 +51,6 @@
       <item value="立即发送" />
       <item value="Issue" />
       <item value="发放" />
-      <item value="立即发放" />
-      <item value="新" />
     </histories>
     <option name="languageScores">
       <map>
