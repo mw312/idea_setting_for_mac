@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="model" />
+      <item value="entity" />
+      <item value="persistence" />
       <item value="suppress" />
       <item value="major" />
       <item value="critical" />
@@ -48,9 +51,6 @@
       <item value="每个人" />
       <item value="calculate" />
       <item value="计算" />
-      <item value="remain" />
-      <item value="剩余" />
-      <item value="recharge" />
     </histories>
     <option name="languageScores">
       <map>
