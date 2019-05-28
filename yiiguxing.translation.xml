@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="suppress" />
+      <item value="major" />
+      <item value="critical" />
       <item value="stat" />
       <item value="tooltip" />
       <item value="restore" />
@@ -48,9 +51,6 @@
       <item value="remain" />
       <item value="剩余" />
       <item value="recharge" />
-      <item value="立即发送" />
-      <item value="Issue" />
-      <item value="发放" />
     </histories>
     <option name="languageScores">
       <map>
