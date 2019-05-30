@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Connecting using the mysql command line program from MySQL 5.7.18 works too, and, even though I doubt it matters" />
+      <item value="neither of which helped" />
       <item value="Commit cannot be completed since the group has already rebalanced and assigned the partitions to another member" />
       <item value="another" />
       <item value="Consume" />
@@ -49,8 +51,6 @@
       <item value="explore" />
       <item value="overwrite" />
       <item value="not recommentded" />
-      <item value="not recommentder" />
-      <item value="fuse" />
     </histories>
     <option name="languageScores">
       <map>
