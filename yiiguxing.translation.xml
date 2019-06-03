@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="limit" />
       <item value="Connecting using the mysql command line program from MySQL 5.7.18 works too, and, even though I doubt it matters" />
       <item value="neither of which helped" />
       <item value="Commit cannot be completed since the group has already rebalanced and assigned the partitions to another member" />
@@ -31,7 +32,6 @@
       <item value="Customize" />
       <item value="tiny" />
       <item value="tinyint" />
-      <item value="limit" />
       <item value="Present" />
       <item value="Absent" />
       <item value="customize" />
