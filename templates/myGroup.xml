@@ -1,7 +1,9 @@
 <templateSet group="myGroup">
-  <template name="cmt" value="/**&#10; * @Author momo&#10; * @Date $date$ $time$&#10; */" description="add comment" toReformat="false" toShortenFQNames="true">
-    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
-    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+  <template name="cmt" value="/**&#10; * @author momo&#10; * @date $date$ $time$&#10; * @param $params$&#10; * @return $return$&#10; */" description="add comment" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
