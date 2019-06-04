@@ -1,11 +1,12 @@
 <templateSet group="myGroup">
-  <template name="cmt" value="/**&#10; * @author momo&#10; * @date $date$ $time$&#10; * @param $params$&#10; * @return $return$&#10; */" description="add comment" toReformat="false" toShortenFQNames="true">
-    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="return" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="*" value="*&#10; * @author $user$&#10; * @date $date$ $time$ &#10; * @param $param$&#10; * @return $return$&#10; * @description &#10; **/&#10;" shortcut="ENTER" description="add comment" toReformat="false" toShortenFQNames="true">
+    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="OTHER" value="true" />
+      <option name="JAVA_CODE" value="true" />
     </context>
   </template>
 </templateSet>
