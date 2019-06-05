@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="common" />
+      <item value="功能" />
       <item value="sentinel" />
       <item value="limit" />
       <item value="Connecting using the mysql command line program from MySQL 5.7.18 works too, and, even though I doubt it matters" />
@@ -28,7 +30,6 @@
       <item value="metrics" />
       <item value="visitlimit" />
       <item value="visit" />
-      <item value="common" />
       <item value="commom" />
       <item value="Customize" />
       <item value="tiny" />
@@ -50,12 +51,11 @@
       <item value="Noncompliant" />
       <item value="Implicit" />
       <item value="explore" />
-      <item value="overwrite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="62" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
