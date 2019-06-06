@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="自定义" />
+      <item value="customize" />
+      <item value="customer" />
+      <item value="custom" />
       <item value="Approval" />
       <item value="verifier" />
       <item value="revoke" />
@@ -40,22 +44,18 @@
       <item value="tinyint" />
       <item value="Present" />
       <item value="Absent" />
-      <item value="customize" />
       <item value="customiz" />
       <item value="customi" />
       <item value="customized" />
       <item value="自定" />
-      <item value="自定义" />
       <item value="reuse" />
       <item value="paraller" />
       <item value="pararrel" />
-      <item value="actuator" />
-      <item value="sale" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
