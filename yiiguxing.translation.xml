@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Approval" />
+      <item value="verifier" />
+      <item value="revoke" />
+      <item value="Reuse" />
       <item value="common" />
       <item value="功能" />
       <item value="sentinel" />
@@ -47,10 +51,6 @@
       <item value="pararrel" />
       <item value="actuator" />
       <item value="sale" />
-      <item value="sell" />
-      <item value="Noncompliant" />
-      <item value="Implicit" />
-      <item value="explore" />
     </histories>
     <option name="languageScores">
       <map>
