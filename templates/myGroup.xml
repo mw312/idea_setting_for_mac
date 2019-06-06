@@ -1,5 +1,5 @@
 <templateSet group="myGroup">
-  <template name="*" value="*&#10; * &#10; * &#10; * @Author $user$&#10; * @Date $date$ $time$ &#10; * @Param $params$&#10; * @Return $returns$&#10; **/" shortcut="SPACE" description="add comment" toReformat="false" toShortenFQNames="true">
+  <template name="*" value="*&#10; * &#10; * &#10; * @author $user$&#10; * @date $date$ $time$ &#10; * @param $params$&#10; * @return $returns$&#10; **/" shortcut="SPACE" description="add comment" toReformat="false" toShortenFQNames="true">
     <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
