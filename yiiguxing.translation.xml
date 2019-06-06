@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verification" />
+      <item value="veification" />
+      <item value="verfication" />
+      <item value="verfucation" />
       <item value="自定义" />
       <item value="customize" />
       <item value="customer" />
@@ -47,14 +51,10 @@
       <item value="customiz" />
       <item value="customi" />
       <item value="customized" />
-      <item value="自定" />
-      <item value="reuse" />
-      <item value="paraller" />
-      <item value="pararrel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
+        <entry key="CHINESE" value="63" />
         <entry key="ENGLISH" value="63" />
         <entry key="JAPANESE" value="2" />
       </map>
