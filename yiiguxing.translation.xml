@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tiny" />
+      <item value="tinyint" />
       <item value="Changes not staged for commit:" />
       <item value="verification" />
       <item value="veification" />
@@ -45,8 +47,6 @@
       <item value="visit" />
       <item value="commom" />
       <item value="Customize" />
-      <item value="tiny" />
-      <item value="tinyint" />
       <item value="Present" />
       <item value="Absent" />
       <item value="customiz" />
