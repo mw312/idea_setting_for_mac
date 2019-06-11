@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="author" />
+      <item value="auther" />
+      <item value="ahtuer" />
       <item value="tiny" />
       <item value="tinyint" />
       <item value="Changes not staged for commit:" />
@@ -48,9 +51,6 @@
       <item value="commom" />
       <item value="Customize" />
       <item value="Present" />
-      <item value="Absent" />
-      <item value="customiz" />
-      <item value="customi" />
     </histories>
     <option name="languageScores">
       <map>
