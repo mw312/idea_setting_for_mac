@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="industry" />
+      <item value="trade" />
       <item value="方案" />
       <item value="中台" />
       <item value="售卖中台" />
@@ -49,12 +51,10 @@
       <item value="zipkin" />
       <item value="allocated." />
       <item value="sleuth" />
-      <item value="monitor" />
-      <item value="metrics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
+        <entry key="CHINESE" value="64" />
         <entry key="ENGLISH" value="64" />
         <entry key="JAPANESE" value="2" />
       </map>
