@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="headless" />
       <item value="Inheritable" />
       <item value="isInheritable" />
       <item value="空位" />
@@ -50,7 +51,6 @@
       <item value="critical" />
       <item value="stat" />
       <item value="tooltip" />
-      <item value="restore" />
     </histories>
     <option name="languageScores">
       <map>
