@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deprecated property to enable" />
+      <item value="deprecated property" />
+      <item value="deprecated" />
       <item value="headless" />
       <item value="Inheritable" />
       <item value="isInheritable" />
@@ -48,9 +51,6 @@
       <item value="persistence" />
       <item value="suppress" />
       <item value="major" />
-      <item value="critical" />
-      <item value="stat" />
-      <item value="tooltip" />
     </histories>
     <option name="languageScores">
       <map>
