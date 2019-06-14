@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Absent" />
       <item value="deprecated property to enable" />
       <item value="deprecated property" />
       <item value="deprecated" />
@@ -50,7 +51,6 @@
       <item value="entity" />
       <item value="persistence" />
       <item value="suppress" />
-      <item value="major" />
     </histories>
     <option name="languageScores">
       <map>
