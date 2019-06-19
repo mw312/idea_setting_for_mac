@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="syntax" />
+      <item value="user contributed" />
       <item value="描述" />
       <item value="STRICTLY" />
       <item value="Ambiguous" />
@@ -49,12 +51,10 @@
       <item value="limit" />
       <item value="Connecting using the mysql command line program from MySQL 5.7.18 works too, and, even though I doubt it matters" />
       <item value="neither of which helped" />
-      <item value="Commit cannot be completed since the group has already rebalanced and assigned the partitions to another member" />
-      <item value="another" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
+        <entry key="CHINESE" value="67" />
         <entry key="ENGLISH" value="67" />
         <entry key="JAPANESE" value="2" />
       </map>
