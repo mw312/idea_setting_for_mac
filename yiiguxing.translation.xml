@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resolution will not be reattempted until the update interval of alimaven has elapsed or updates are force" />
       <item value="repository element was not specified in the POM inside distributionManagement element" />
       <item value="coverage" />
       <item value="annotation" />
@@ -50,7 +51,6 @@
       <item value="Reuse" />
       <item value="common" />
       <item value="功能" />
-      <item value="sentinel" />
     </histories>
     <option name="languageScores">
       <map>
