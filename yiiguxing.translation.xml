@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="repository element was not specified in the POM inside distributionManagement element" />
       <item value="coverage" />
       <item value="annotation" />
       <item value="syntax" />
@@ -50,7 +51,6 @@
       <item value="common" />
       <item value="功能" />
       <item value="sentinel" />
-      <item value="limit" />
     </histories>
     <option name="languageScores">
       <map>
