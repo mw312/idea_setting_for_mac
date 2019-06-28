@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="run" />
       <item value="instantiate" />
       <item value="命名空间" />
       <item value="Error: Cannot perform an interactive login from a non TTY device" />
@@ -50,7 +51,6 @@
       <item value="verification" />
       <item value="veification" />
       <item value="verfication" />
-      <item value="verfucation" />
     </histories>
     <option name="languageScores">
       <map>
