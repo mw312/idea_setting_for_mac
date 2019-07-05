@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rest" />
       <item value="单元" />
       <item value="单元门" />
       <item value="物业" />
@@ -50,11 +51,10 @@
       <item value="isInheritable" />
       <item value="空位" />
       <item value="industry" />
-      <item value="trade" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
+        <entry key="CHINESE" value="71" />
         <entry key="ENGLISH" value="71" />
         <entry key="JAPANESE" value="2" />
       </map>
