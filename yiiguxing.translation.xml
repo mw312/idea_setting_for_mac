@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="物业" />
+      <item value="premises" />
+      <item value="premise" />
+      <item value="premese" />
       <item value="Argument" />
       <item value="Illegal" />
       <item value="IllegalArgument" />
@@ -47,15 +51,11 @@
       <item value="trade" />
       <item value="方案" />
       <item value="中台" />
-      <item value="售卖中台" />
-      <item value="售卖" />
-      <item value="COLLATE" />
-      <item value="author" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
