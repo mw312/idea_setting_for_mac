@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="单元" />
+      <item value="单元门" />
       <item value="物业" />
       <item value="premises" />
       <item value="premise" />
@@ -49,8 +51,6 @@
       <item value="空位" />
       <item value="industry" />
       <item value="trade" />
-      <item value="方案" />
-      <item value="中台" />
     </histories>
     <option name="languageScores">
       <map>
