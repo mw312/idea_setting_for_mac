@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="aisino" />
       <item value="Dialect" />
       <item value="snapshot" />
       <item value="implicit" />
@@ -50,7 +51,6 @@
       <item value="strategy" />
       <item value="Concurrency" />
       <item value="acquire" />
-      <item value="optimize" />
     </histories>
     <option name="languageScores">
       <map>
