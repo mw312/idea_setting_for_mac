@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="license" />
       <item value="bearer" />
       <item value="会员" />
       <item value="formal" />
@@ -50,7 +51,6 @@
       <item value="STRICTLY" />
       <item value="Ambiguous" />
       <item value="执行" />
-      <item value="no viable alternative" />
     </histories>
     <option name="languageScores">
       <map>
