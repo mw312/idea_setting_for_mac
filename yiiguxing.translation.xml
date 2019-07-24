@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="omprehen" />
+      <item value="omprehensive" />
       <item value="license" />
       <item value="bearer" />
       <item value="会员" />
@@ -49,8 +51,6 @@
       <item value="user contributed" />
       <item value="描述" />
       <item value="STRICTLY" />
-      <item value="Ambiguous" />
-      <item value="执行" />
     </histories>
     <option name="languageScores">
       <map>
