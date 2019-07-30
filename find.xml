@@ -15,5 +15,6 @@
     <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*prod.properties</mask>
+    <mask>application.properties</mask>
   </component>
 </application>
