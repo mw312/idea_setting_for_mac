@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lastPage" />
       <item value="pending" />
       <item value="导出" />
       <item value="rate" />
@@ -50,7 +51,6 @@
       <item value="sprint" />
       <item value="recognised" />
       <item value="run" />
-      <item value="instantiate" />
     </histories>
     <option name="languageScores">
       <map>
