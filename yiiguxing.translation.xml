@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expense" />
+      <item value="expence" />
       <item value="基础开发框架" />
       <item value="递归" />
       <item value="导入" />
@@ -49,12 +51,10 @@
       <item value="Illegal" />
       <item value="IllegalArgument" />
       <item value="异步" />
-      <item value="Async" />
-      <item value="completeFutureAndFireCallbacks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
+        <entry key="CHINESE" value="77" />
         <entry key="ENGLISH" value="77" />
         <entry key="BULGARIAN" value="3" />
         <entry key="JAPANESE" value="2" />
