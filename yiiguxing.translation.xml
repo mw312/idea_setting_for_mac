@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="promoter" />
       <item value="Secret" />
       <item value="voucher" />
       <item value="memo" />
       <item value="note" />
       <item value="memberorder" />
-      <item value="promoter" />
       <item value="平均" />
       <item value="上限" />
       <item value="s" />
