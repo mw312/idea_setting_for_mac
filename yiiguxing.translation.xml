@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Secret" />
       <item value="voucher" />
       <item value="memo" />
       <item value="note" />
@@ -50,7 +51,6 @@
       <item value="license" />
       <item value="bearer" />
       <item value="会员" />
-      <item value="formal" />
     </histories>
     <option name="languageScores">
       <map>
