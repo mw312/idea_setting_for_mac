@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="voucher" />
       <item value="memo" />
       <item value="note" />
       <item value="memberorder" />
@@ -50,7 +51,6 @@
       <item value="bearer" />
       <item value="会员" />
       <item value="formal" />
-      <item value="aisino" />
     </histories>
     <option name="languageScores">
       <map>
