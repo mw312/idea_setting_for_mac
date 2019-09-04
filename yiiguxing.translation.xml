@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pending" />
       <item value="scope" />
       <item value="需求" />
       <item value="promoter" />
@@ -31,7 +32,6 @@
       <item value="递归" />
       <item value="导入" />
       <item value="lastPage" />
-      <item value="pending" />
       <item value="导出" />
       <item value="rate" />
       <item value="预订人" />
