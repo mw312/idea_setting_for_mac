@@ -1,8 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="金额" />
+      <item value="拆分" />
+      <item value="剩余" />
+      <item value="流水号" />
+      <item value="现金" />
       <item value="余额" />
+      <item value="金额" />
       <item value="amount" />
       <item value="预付" />
       <item value="抵扣" />
@@ -47,10 +51,6 @@
       <item value=" Microservice Architecture" />
       <item value="expense" />
       <item value="expence" />
-      <item value="基础开发框架" />
-      <item value="递归" />
-      <item value="导入" />
-      <item value="lastPage" />
     </histories>
     <option name="languageScores">
       <map>
