@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="抵扣" />
+      <item value="预存" />
+      <item value="结算" />
+      <item value="结账" />
+      <item value="marge" />
+      <item value="marg" />
+      <item value="marging" />
+      <item value="差值" />
+      <item value="差" />
+      <item value="差额" />
+      <item value="底价" />
+      <item value="利差" />
+      <item value="Spread" />
+      <item value="commission" />
       <item value="账单" />
       <item value="pending" />
       <item value="scope" />
@@ -37,25 +51,11 @@
       <item value="rate" />
       <item value="预订人" />
       <item value="预定人" />
-      <item value="depositAmount" />
-      <item value="occupancy" />
-      <item value="deposit" />
-      <item value="匹配" />
-      <item value="满房" />
-      <item value="Reservation" />
-      <item value="Corporation representative" />
-      <item value="otahotelresnotifrq" />
-      <item value="loan" />
-      <item value="indent" />
-      <item value="Remote" />
-      <item value="distribution" />
-      <item value="omprehen" />
-      <item value="omprehensive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="BULGARIAN" value="3" />
         <entry key="JAPANESE" value="2" />
       </map>
