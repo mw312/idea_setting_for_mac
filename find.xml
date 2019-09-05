@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -12,11 +13,11 @@
     <mask>*.css</mask>
     <mask>application.properties</mask>
     <mask>*prod.properties</mask>
-    <mask>*.properties</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.yml</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
