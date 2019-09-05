@@ -74,6 +74,14 @@
           <option name="url" value="git@code.aliyun.com:xlls/xlls-merchant.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@code.aliyun.com:xlls/xlls-upms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@code.aliyun.com:xlls/xlls-gateway.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/work/ideaProjects/xlls" />
