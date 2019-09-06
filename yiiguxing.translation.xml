@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="钱包" />
+      <item value="余额" />
+      <item value="账号" />
+      <item value="账户" />
       <item value="拆分" />
       <item value="剩余" />
       <item value="流水号" />
       <item value="现金" />
-      <item value="余额" />
       <item value="金额" />
       <item value="amount" />
       <item value="预付" />
@@ -38,7 +41,6 @@
       <item value="s" />
       <item value="门店" />
       <item value="分行" />
-      <item value="账号" />
       <item value="开户银行" />
       <item value="开户" />
       <item value="开户行" />
@@ -49,8 +51,6 @@
       <item value="商户" />
       <item value="合作" />
       <item value=" Microservice Architecture" />
-      <item value="expense" />
-      <item value="expence" />
     </histories>
     <option name="languageScores">
       <map>
