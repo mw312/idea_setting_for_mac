@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="principal" />
       <item value="钱包" />
       <item value="余额" />
       <item value="账号" />
@@ -50,11 +51,10 @@
       <item value="联系人" />
       <item value="商户" />
       <item value="合作" />
-      <item value=" Microservice Architecture" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
+        <entry key="CHINESE" value="85" />
         <entry key="ENGLISH" value="85" />
         <entry key="BULGARIAN" value="3" />
         <entry key="JAPANESE" value="2" />
