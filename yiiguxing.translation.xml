@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="register" />
+      <item value="注册" />
+      <item value="regi" />
+      <item value="regist" />
+      <item value="regiset" />
       <item value="位" />
       <item value="订单号" />
       <item value="Dependency" />
@@ -46,16 +51,11 @@
       <item value="差" />
       <item value="差额" />
       <item value="底价" />
-      <item value="利差" />
-      <item value="Spread" />
-      <item value="commission" />
-      <item value="账单" />
-      <item value="pending" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="93" />
         <entry key="BULGARIAN" value="3" />
         <entry key="JAPANESE" value="2" />
       </map>
