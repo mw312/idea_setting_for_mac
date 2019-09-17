@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="normal" />
+      <item value="pending" />
       <item value="register" />
       <item value="注册" />
       <item value="regi" />
@@ -49,8 +51,6 @@
       <item value="marging" />
       <item value="差值" />
       <item value="差" />
-      <item value="差额" />
-      <item value="底价" />
     </histories>
     <option name="languageScores">
       <map>
