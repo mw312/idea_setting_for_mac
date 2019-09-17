@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="位" />
       <item value="订单号" />
       <item value="Dependency" />
       <item value="bussiness" />
@@ -50,7 +51,6 @@
       <item value="commission" />
       <item value="账单" />
       <item value="pending" />
-      <item value="scope" />
     </histories>
     <option name="languageScores">
       <map>
