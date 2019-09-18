@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="统计" />
       <item value="卖卡拆帐" />
       <item value="Disbursement" />
       <item value="云游" />
@@ -50,7 +51,6 @@
       <item value="抵扣" />
       <item value="预存" />
       <item value="结算" />
-      <item value="结账" />
     </histories>
     <option name="languageScores">
       <map>
