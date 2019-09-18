@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is not assignable to " />
       <item value="生成账单" />
       <item value="统计" />
       <item value="卖卡拆帐" />
@@ -50,11 +51,10 @@
       <item value="amount" />
       <item value="预付" />
       <item value="抵扣" />
-      <item value="预存" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
+        <entry key="CHINESE" value="95" />
         <entry key="ENGLISH" value="95" />
         <entry key="BULGARIAN" value="3" />
         <entry key="JAPANESE" value="2" />
