@@ -10,11 +10,11 @@
     <mask>*.css</mask>
     <mask>application.properties</mask>
     <mask>*prod.properties</mask>
-    <mask>*.js</mask>
-    <mask>*.html</mask>
     <mask>*.properties</mask>
     <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.html</mask>
+    <mask>*.js</mask>
   </component>
 </application>
