@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="抵扣" />
       <item value="settle" />
       <item value="结账" />
       <item value="is not assignable to " />
@@ -50,12 +51,11 @@
       <item value="流水号" />
       <item value="现金" />
       <item value="金额" />
-      <item value="amount" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="96" />
+        <entry key="ENGLISH" value="97" />
         <entry key="BULGARIAN" value="3" />
         <entry key="JAPANESE" value="2" />
       </map>
