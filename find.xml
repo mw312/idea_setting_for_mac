@@ -12,9 +12,9 @@
     <mask>*prod.properties</mask>
     <mask>*.yml</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
