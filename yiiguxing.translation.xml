@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="addressee" />
+      <item value="收件人" />
+      <item value="类别" />
       <item value="抵扣" />
       <item value="settle" />
       <item value="结账" />
@@ -48,13 +51,10 @@
       <item value="账户" />
       <item value="拆分" />
       <item value="剩余" />
-      <item value="流水号" />
-      <item value="现金" />
-      <item value="金额" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
+        <entry key="CHINESE" value="97" />
         <entry key="ENGLISH" value="97" />
         <entry key="BULGARIAN" value="3" />
         <entry key="JAPANESE" value="2" />
