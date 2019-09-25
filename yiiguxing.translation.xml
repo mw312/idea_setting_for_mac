@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="抵扣" />
       <item value="第三方" />
       <item value="select" />
       <item value="禁用" />
@@ -8,7 +9,6 @@
       <item value="addressee" />
       <item value="收件人" />
       <item value="类别" />
-      <item value="抵扣" />
       <item value="settle" />
       <item value="结账" />
       <item value="is not assignable to " />
