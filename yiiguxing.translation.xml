@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="条件" />
       <item value="后缀" />
       <item value="抵扣" />
       <item value="第三方" />
@@ -50,7 +51,6 @@
       <item value="license" />
       <item value="granter" />
       <item value="principal" />
-      <item value="钱包" />
     </histories>
     <option name="languageScores">
       <map>
