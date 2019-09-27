@@ -14,7 +14,7 @@
     <mask>*.xml</mask>
     <mask>*.html</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
