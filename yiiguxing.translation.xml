@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="predicates" />
       <item value="details" />
       <item value="三十" />
       <item value="30" />
@@ -50,7 +51,6 @@
       <item value="最近的" />
       <item value="phone" />
       <item value="待支付" />
-      <item value="mobile" />
     </histories>
     <option name="languageScores">
       <map>
