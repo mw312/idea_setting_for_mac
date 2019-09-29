@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="kit" />
       <item value="Conflict" />
       <item value="predicates" />
       <item value="details" />
@@ -50,7 +51,6 @@
       <item value="unbound" />
       <item value="销售人员" />
       <item value="最近的" />
-      <item value="phone" />
     </histories>
     <option name="languageScores">
       <map>
