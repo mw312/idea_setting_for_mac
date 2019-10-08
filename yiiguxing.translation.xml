@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="IllegalState" />
+      <item value="IllegalStateException" />
       <item value="illegal" />
       <item value="kit" />
       <item value="Conflict" />
@@ -49,8 +51,6 @@
       <item value="tied" />
       <item value="绑定" />
       <item value="解绑" />
-      <item value="unbound" />
-      <item value="销售人员" />
     </histories>
     <option name="languageScores">
       <map>
