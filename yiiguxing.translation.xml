@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="灰色" />
+      <item value="white" />
+      <item value="普通会员" />
+      <item value="会员" />
       <item value="SALECARDCOUNT" />
       <item value="salecardcount" />
       <item value="IllegalState" />
@@ -33,7 +37,6 @@
       <item value="卖卡拆帐" />
       <item value="Disbursement" />
       <item value="云游" />
-      <item value="灰色" />
       <item value="普通" />
       <item value="normal" />
       <item value="pending" />
@@ -48,14 +51,11 @@
       <item value="bussiness" />
       <item value="prefix" />
       <item value="prex" />
-      <item value="验证码" />
-      <item value="短信" />
-      <item value="tied" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="BULGARIAN" value="3" />
         <entry key="MALAYALAM" value="3" />
         <entry key="JAPANESE" value="2" />
