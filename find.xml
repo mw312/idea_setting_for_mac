@@ -13,10 +13,10 @@
     <mask>application.properties</mask>
     <mask>*prod.properties</mask>
     <mask>*.yml</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
