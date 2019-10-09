@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wrap" />
       <item value="平均" />
       <item value="灰色" />
       <item value="white" />
@@ -50,11 +51,10 @@
       <item value="订单号" />
       <item value="Dependency" />
       <item value="bussiness" />
-      <item value="prefix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="105" />
+        <entry key="CHINESE" value="106" />
         <entry key="ENGLISH" value="106" />
         <entry key="BULGARIAN" value="3" />
         <entry key="MALAYALAM" value="3" />
