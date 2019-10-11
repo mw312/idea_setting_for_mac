@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="外网" />
       <item value="实例" />
       <item value="wrap" />
       <item value="平均" />
@@ -50,7 +51,6 @@
       <item value="regiset" />
       <item value="位" />
       <item value="订单号" />
-      <item value="Dependency" />
     </histories>
     <option name="languageScores">
       <map>
