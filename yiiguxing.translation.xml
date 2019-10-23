@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="入住客人" />
+      <item value="入住人" />
       <item value="identity" />
       <item value="discountbalance" />
       <item value="余额" />
@@ -15,7 +17,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
