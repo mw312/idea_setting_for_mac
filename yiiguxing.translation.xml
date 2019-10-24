@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="审核" />
+      <item value="auditor" />
+      <item value="auditer" />
+      <item value="audit" />
+      <item value="夜审" />
+      <item value="had" />
+      <item value="已经" />
+      <item value="has" />
       <item value="track" />
       <item value="命中" />
       <item value="Debts" />
@@ -20,8 +28,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
