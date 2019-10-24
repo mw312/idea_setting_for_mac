@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="批量" />
       <item value="入住客人" />
       <item value="入住人" />
       <item value="identity" />
