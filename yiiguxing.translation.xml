@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="报表" />
+      <item value="统计" />
       <item value="递归" />
       <item value="milliseconds" />
       <item value="unacked" />
