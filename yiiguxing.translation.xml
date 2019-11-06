@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="递归" />
       <item value="milliseconds" />
       <item value="unacked" />
       <item value="feature" />
@@ -34,7 +35,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
