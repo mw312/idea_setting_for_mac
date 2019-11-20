@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="预付" />
+      <item value="现付" />
       <item value="指定的" />
       <item value="receiver" />
       <item value="接收" />
