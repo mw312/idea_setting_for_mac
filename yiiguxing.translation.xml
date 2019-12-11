@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="debt" />
       <item value="税号" />
       <item value="发票" />
       <item value="异步" />
@@ -50,11 +51,10 @@
       <item value="identity" />
       <item value="discountbalance" />
       <item value="余额" />
-      <item value="消费金" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
+        <entry key="CHINESE" value="17" />
         <entry key="ENGLISH" value="17" />
       </map>
     </option>
