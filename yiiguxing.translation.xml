@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="是否" />
+      <item value="是否能够" />
+      <item value="valid" />
+      <item value="是否有效" />
+      <item value="是否被占用" />
       <item value="已核销" />
       <item value="核销" />
       <item value="rate" />
@@ -46,16 +51,11 @@
       <item value="已经" />
       <item value="has" />
       <item value="track" />
-      <item value="命中" />
-      <item value="Debts" />
-      <item value="批量" />
-      <item value="入住客人" />
-      <item value="入住人" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
