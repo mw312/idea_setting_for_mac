@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="方式" />
+      <item value="类别" />
       <item value="本次" />
       <item value="additional" />
       <item value="补充" />
@@ -15,7 +17,6 @@
       <item value="审核" />
       <item value="普通" />
       <item value="normal" />
-      <item value="类别" />
       <item value="ReferenceConfig(null) is not DESTROYED when FINALIZE" />
       <item value="审计" />
       <item value="Audit" />
@@ -50,7 +51,6 @@
       <item value="异常处理" />
       <item value="gender" />
       <item value="次数" />
-      <item value="循环" />
     </histories>
     <option name="languageScores">
       <map>
