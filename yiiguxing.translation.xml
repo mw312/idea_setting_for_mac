@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="本次" />
+      <item value="additional" />
+      <item value="补充" />
+      <item value="应补" />
+      <item value="支付" />
+      <item value="应该支付" />
+      <item value="应付" />
+      <item value="上一个" />
+      <item value="上期" />
+      <item value="pre" />
       <item value="审批" />
       <item value="审核" />
       <item value="普通" />
@@ -41,21 +51,11 @@
       <item value="gender" />
       <item value="次数" />
       <item value="循环" />
-      <item value="二十" />
-      <item value="20" />
-      <item value="比例" />
-      <item value="分布" />
-      <item value="百分比" />
-      <item value="报表" />
-      <item value="统计" />
-      <item value="递归" />
-      <item value="milliseconds" />
-      <item value="unacked" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
