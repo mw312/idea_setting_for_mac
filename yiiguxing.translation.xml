@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="please peel off this mask before application" />
       <item value="方式" />
       <item value="类别" />
       <item value="本次" />
@@ -50,11 +51,10 @@
       <item value="店长" />
       <item value="异常处理" />
       <item value="gender" />
-      <item value="次数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
+        <entry key="CHINESE" value="24" />
         <entry key="ENGLISH" value="24" />
       </map>
     </option>
