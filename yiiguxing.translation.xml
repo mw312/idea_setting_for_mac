@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="下期" />
+      <item value="累计" />
+      <item value="预存" />
       <item value="accessories de protection ecran" />
       <item value="accessories de protection" />
       <item value="accessories de" />
@@ -48,14 +51,11 @@
       <item value="指定的" />
       <item value="receiver" />
       <item value="接收" />
-      <item value="接收者" />
-      <item value="phone" />
-      <item value="mobile" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
