@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Experience" />
+      <item value="离职" />
       <item value="envelope" />
       <item value="revoke" />
       <item value="撤回" />
@@ -49,13 +51,11 @@
       <item value="发票" />
       <item value="异步" />
       <item value="Invoice" />
-      <item value="主要" />
-      <item value=" Although retry the method findOne in the service com.qusu.house.service.GuestService was successful by the provider house.washepms.com:10005, but there have been failed providers [house.washepms.com:10005] (1/1) from the registry zookeeper.washepms.com:2181 on the consumer 10.25.170.108 using the dubbo version 2.5.8" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
