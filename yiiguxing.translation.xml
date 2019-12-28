@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="preliminarily" />
       <item value="Experience" />
       <item value="离职" />
       <item value="envelope" />
@@ -50,7 +51,6 @@
       <item value="税号" />
       <item value="发票" />
       <item value="异步" />
-      <item value="Invoice" />
     </histories>
     <option name="languageScores">
       <map>
