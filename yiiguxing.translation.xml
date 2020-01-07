@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="privilege" />
+      <item value="privige" />
       <item value="voucher" />
       <item value="vouchar" />
       <item value="vonchar" />
@@ -49,8 +51,6 @@
       <item value="valid" />
       <item value="是否有效" />
       <item value="是否被占用" />
-      <item value="已核销" />
-      <item value="核销" />
     </histories>
     <option name="languageScores">
       <map>
