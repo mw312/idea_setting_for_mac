@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="attachment" />
+      <item value="attach" />
       <item value="preliminarily" />
       <item value="Accrue" />
       <item value="计提" />
@@ -49,8 +51,6 @@
       <item value="Auditer" />
       <item value="Auditor" />
       <item value="夜审" />
-      <item value="是否" />
-      <item value="是否能够" />
     </histories>
     <option name="languageScores">
       <map>
