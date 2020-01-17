@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hang operation" />
+      <item value="platform operation" />
+      <item value="platform opertaion" />
+      <item value="platform opertation" />
       <item value="statuses" />
       <item value="attachment" />
       <item value="attach" />
@@ -47,10 +51,6 @@
       <item value="normal" />
       <item value="ReferenceConfig(null) is not DESTROYED when FINALIZE" />
       <item value="审计" />
-      <item value="Audit" />
-      <item value="Audite" />
-      <item value="Auditer" />
-      <item value="Auditor" />
     </histories>
     <option name="languageScores">
       <map>
