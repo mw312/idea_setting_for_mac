@@ -1,10 +1,8 @@
 <templateSet group="myGroup">
-  <template name="*" value="*&#10; * &#10; * &#10; * @author $user$&#10; * @date $date$ $time$ &#10; * @param $params$&#10; * @return $returns$&#10; **/" shortcut="SPACE" description="add comment" toReformat="false" toShortenFQNames="true">
-    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
-    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
-    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
-    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
-    <variable name="returns" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+  <template name="cmt" value="/**&#10; * @description: $DESCRIPTION$&#10; * @author: $USER$&#10; * @date: $DATE$&#10;*/" shortcut="ENTER" description="文件注释" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
