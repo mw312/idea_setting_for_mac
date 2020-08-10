@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Executor Service" />
       <item value="hang operation" />
       <item value="platform operation" />
       <item value="platform opertaion" />
@@ -50,7 +51,6 @@
       <item value="普通" />
       <item value="normal" />
       <item value="ReferenceConfig(null) is not DESTROYED when FINALIZE" />
-      <item value="审计" />
     </histories>
     <option name="languageScores">
       <map>
