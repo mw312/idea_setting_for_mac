@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -16,8 +17,8 @@
     <mask>*.js</mask>
     <mask>*.properties</mask>
     <mask>*dev.properties</mask>
-    <mask>*.xml</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
