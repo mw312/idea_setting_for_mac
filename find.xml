@@ -15,7 +15,7 @@
     <mask>*dev.properties</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
-    <mask>*.yml</mask>
     <mask>*.xml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
