@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -18,8 +19,8 @@
     <mask>*.cla</mask>
     <mask>*.class</mask>
     <mask>*.html</mask>
-    <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.yml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
