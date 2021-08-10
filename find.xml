@@ -14,12 +14,12 @@
     <mask>*.css</mask>
     <mask>*dev.properties</mask>
     <mask>*.xml</mask>
-    <mask>*.yml</mask>
-    <mask>*.properties</mask>
     <mask>*.js</mask>
     <mask>*.cla</mask>
     <mask>*.class</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
+    <mask>*.properties</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
