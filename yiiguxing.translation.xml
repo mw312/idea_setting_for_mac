@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Immutable Bitmap" />
+      <item value="Complex Column" />
+      <item value="Numeric Column" />
+      <item value="make Vector Value Selector" />
+      <item value="make Column Value Selector" />
+      <item value="Various" />
       <item value="firstpartyname" />
       <item value="mainproducts" />
       <item value="production license file path" />
@@ -45,17 +51,11 @@
       <item value="补充" />
       <item value="应补" />
       <item value="支付" />
-      <item value="应该支付" />
-      <item value="应付" />
-      <item value="上一个" />
-      <item value="上期" />
-      <item value="pre" />
-      <item value="审批" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
       </map>
     </option>
   </component>
