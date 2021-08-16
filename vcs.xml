@@ -34,6 +34,10 @@
           <option name="url" value="http://10.148.91.3" />
           <option name="userName" value="moweipt" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/apache/druid.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/work/ideaProjects/migu" />
