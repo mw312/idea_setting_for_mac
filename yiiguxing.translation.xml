@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="binomial" />
       <item value="transition" />
       <item value="Caching Clustered Client" />
       <item value="with Overridden Context" />
@@ -50,12 +51,11 @@
       <item value="离职" />
       <item value="envelope" />
       <item value="revoke" />
-      <item value="撤回" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
       </map>
     </option>
   </component>
