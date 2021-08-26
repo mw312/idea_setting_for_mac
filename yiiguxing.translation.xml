@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="run Internal" />
+      <item value="Incremental Publishing Kafka Index Task Runner" />
+      <item value="sampler" />
       <item value="Seek" />
       <item value="transform" />
       <item value="consuming Iterable" />
@@ -48,14 +51,11 @@
       <item value="privilege" />
       <item value="privige" />
       <item value="voucher" />
-      <item value="vouchar" />
-      <item value="vonchar" />
-      <item value="优惠券" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
       </map>
     </option>
   </component>
