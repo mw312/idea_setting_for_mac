@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Task Monitor Test" />
       <item value="test Secured Get Full Queryable Data Sources" />
       <item value="Concrete" />
       <item value="run Internal" />
@@ -50,12 +51,11 @@
       <item value="Accrue" />
       <item value="计提" />
       <item value="Preliminarily" />
-      <item value="privilege" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
       </map>
     </option>
   </component>
