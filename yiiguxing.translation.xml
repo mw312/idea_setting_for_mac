@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="seek" />
+      <item value="Kinesis" />
       <item value="resolution will not be reattempted until the update interval of apache.snapshots has elapsed or updates are forced" />
       <item value="corrupted and will be deleted" />
       <item value="Task Monitor Test" />
@@ -49,13 +51,11 @@
       <item value="statuses" />
       <item value="attachment" />
       <item value="attach" />
-      <item value="preliminarily" />
-      <item value="Accrue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
       </map>
     </option>
   </component>
