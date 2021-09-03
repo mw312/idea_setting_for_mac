@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="appenderator" />
+      <item value="persist already done in finally, so directly add to publishQueue" />
+      <item value="We need to copy sequences here, because the success callback in publishAndRegisterHandoff removes items from // the sequence list. If a publish finishes before we finish iterating through the sequence list, we can // end up skipping some sequences." />
       <item value="Explicitly call lifecycle stop, dont rely on shutdown hook." />
       <item value="Task Toolbox" />
       <item value="Supervisor" />
@@ -48,14 +51,11 @@
       <item value="sell type" />
       <item value="Executor Service" />
       <item value="hang operation" />
-      <item value="platform operation" />
-      <item value="platform opertaion" />
-      <item value="platform opertation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
       </map>
     </option>
   </component>
