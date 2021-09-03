@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Task Toolbox" />
       <item value="Supervisor" />
       <item value="seek" />
       <item value="Kinesis" />
@@ -50,12 +51,11 @@
       <item value="platform opertaion" />
       <item value="platform opertation" />
       <item value="statuses" />
-      <item value="attachment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="75" />
       </map>
     </option>
   </component>
