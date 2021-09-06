@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Parallel Index Tuning Config" />
       <item value="move the segment out from the active segments of BaseAppenderatorDriver to make a new segment" />
       <item value="If the number of rows in the segment exceeds the threshold after adding a row," />
       <item value="appenderator" />
@@ -50,12 +51,11 @@
       <item value="firstpartyname" />
       <item value="mainproducts" />
       <item value="production license file path" />
-      <item value="sell type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
       </map>
     </option>
   </component>
