@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="can Vectorize Matcher" />
+      <item value="optimize" />
       <item value="selector" />
       <item value="Compaction" />
       <item value="Absent" />
@@ -49,13 +51,11 @@
       <item value="Immutable Bitmap" />
       <item value="Complex Column" />
       <item value="Numeric Column" />
-      <item value="make Vector Value Selector" />
-      <item value="make Column Value Selector" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="88" />
       </map>
     </option>
   </component>
