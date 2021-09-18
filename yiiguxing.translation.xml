@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invocation" />
+      <item value="Forbidden method invocation" />
       <item value="optimize" />
       <item value="can Vectorize Matcher" />
       <item value="selector" />
@@ -49,8 +51,6 @@
       <item value="Column Holder" />
       <item value="Storage Adapter" />
       <item value="Immutable Bitmap" />
-      <item value="Complex Column" />
-      <item value="Numeric Column" />
     </histories>
     <option name="languageScores">
       <map>
