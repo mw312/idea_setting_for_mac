@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="RSAUtils.java" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="conf" type="Properties" />
     </extensionMap>
   </component>
