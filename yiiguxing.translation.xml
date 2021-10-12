@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retries exhausted, couldn't fulfill request to" />
       <item value="Combining" />
       <item value="granularity" />
       <item value="invocation" />
@@ -50,7 +51,6 @@
       <item value="metrics" />
       <item value="Aggregator" />
       <item value="Holder" />
-      <item value="Column Holder" />
     </histories>
     <option name="languageScores">
       <map>
