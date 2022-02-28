@@ -70,8 +70,20 @@
           <option name="url" value="http://git.prd.fun/git/projects/SU/repos/user-feed-service/browse" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.prd.fun/git/projects/SU/repos/user-feed-api/browse" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.prd.fun/git/scm/su/user-feed-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.prd.fun/git/scm/su/user-feed-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/work/ideaProjects/migu/music" />
+    <option name="cloneParentDir" value="$USER_HOME$/work/ideaProjects/migu/music/feed" />
   </component>
 </application>
