@@ -86,8 +86,12 @@
           <option name="url" value="http://git.prd.fun/git/scm/su/sns-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.prd.fun/git/scm/ser/application-config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/work/ideaProjects/migu/music/sns" />
+    <option name="cloneParentDir" value="$USER_HOME$/work/ideaProjects/migu/music/feed" />
   </component>
 </application>
