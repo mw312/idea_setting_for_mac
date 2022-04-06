@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Common Service Impl" />
       <item value="provisioning" />
       <item value="tp 1324046553" />
       <item value="Retries exhausted, couldn't fulfill request to" />
@@ -50,7 +51,6 @@
       <item value="Generic" />
       <item value="Scheduler," />
       <item value="Dimension" />
-      <item value="metrics" />
     </histories>
     <option name="languageScores">
       <map>
