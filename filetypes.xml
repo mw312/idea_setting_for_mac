@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="zhang" type="PLAIN_TEXT" />
+      <mapping pattern="mo" type="PLAIN_TEXT" />
       <mapping pattern="RSAUtils.java" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
